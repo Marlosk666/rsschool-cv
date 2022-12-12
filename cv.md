@@ -8,8 +8,7 @@ junior fronted developer
 * GitHub: [Marlosk666] (https://github.com/Marlosk666)
 
 ### About me 
-I am a team player with nice soft skills. I can build processes within the team, and also with related departments. Proactive in
-learning new. 
+I am a team player with nice soft skills. I can build processes within the team, and also with related departments. Proactive in learning new. 
 
 
 ### Skills 
@@ -31,5 +30,6 @@ learning new.
 * 2021-2022: Kupibilet.ru (SMM) 
 
 
+
 ### English 
-**B2** (trying to get C1)
+**B2** (trying to get C1) 
