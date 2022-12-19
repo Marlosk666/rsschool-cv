@@ -16,7 +16,18 @@ html {
    background-color: #F0DCED;
 }
 .header-photo {
-    display: flex;
     overflow: hidden;
-    margin: 5px;
+    margin-right: 100px;
+
 }
+
+.header-title {
+ color:#410341;
+ text-align: right;
+  }
+
+.header-container {
+    display: flex;
+}
+  
+
