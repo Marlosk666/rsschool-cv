@@ -30,4 +30,22 @@ html {
     display: flex;
 }
   
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px;
+    list-style: none;  
+}
 
+.nav-item {
+    margin: 5px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    background-color: #a9a9a9;
+}
